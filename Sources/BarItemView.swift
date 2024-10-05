@@ -11,7 +11,7 @@ import UIKit
 class BarItemView: UIView {
     // MARK: - Options
     private enum Options {
-        static let minWidth: CGFloat = 44
+        static let minWidth: CGFloat = 65
         static let maxWidth: CGFloat = 110
     }
 
@@ -19,7 +19,8 @@ class BarItemView: UIView {
     lazy var indicatorView: UIView = .build()
 
     private lazy var labelTitle: UILabel = .build { label in
-        label.font = UIFont.systemFont(ofSize: 14, weight: .semibold)
+        label.font = UIFont(name: "TitilliumWeb-SemiBold", size: 8)
+        label.textAlignment = .center
     }
 
     private lazy var viewContainer: UIView = .build()

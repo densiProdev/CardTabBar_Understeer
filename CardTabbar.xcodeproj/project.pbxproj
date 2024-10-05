@@ -54,6 +54,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		BD973BBA2CB10D6E006DB8F4 /* TitilliumWeb-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TitilliumWeb-SemiBold.ttf"; sourceTree = "<group>"; };
 		E326F2D1276632D900DBCBFC /* CardTabBar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CardTabBar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E326F2DD2766330200DBCBFC /* UIView+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+.swift"; sourceTree = "<group>"; };
 		E326F2DE2766330200DBCBFC /* UIStackView+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIStackView+.swift"; sourceTree = "<group>"; };
@@ -125,6 +126,7 @@
 		E3F586DF274ED4CB0092F30C = {
 			isa = PBXGroup;
 			children = (
+				BD973BBA2CB10D6E006DB8F4 /* TitilliumWeb-SemiBold.ttf */,
 				E3F586F8274ED4F50092F30C /* DemoApp */,
 				E326F2D2276632D900DBCBFC /* CardTabBar */,
 				E3F586EA274ED4CB0092F30C /* Products */,
